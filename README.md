@@ -3,4 +3,4 @@ Framework for high-interaction honeypot generator for containerized infrastrucur
 
 TODO: Add API documentation and development guidelines
 
-For a generalized aproach regarding this project you can read more from Licenta_Bontas_Carol.pdf
+For a generalized aproach regarding this project you can read more from Licenta_Carol_Bontas.pdf
